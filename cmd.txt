@@ -11,3 +11,8 @@ git branch -> isprintina btanchus, * yra working bracnh
 git branch naujas branchas -> sukuria nauja brancha
 hit merge branchas1 branchas2 sumergina branchus
 
+git push --set-upstream origin new_branch -> prideda nutolulioj repo brancha
+git push -- git push origin new_branch
+
+git checkout branch_name perina i kita brancha iseidamas is esamo brancho
+
