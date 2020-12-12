@@ -6,6 +6,8 @@ git add failopavadinimas > prideda faila i sekimo lista() -am (pasiziureti)
 git commit -m "zinute" i ta faila kuri pridejom/ suadinom
 git branch -M > susetina brancha lokaliai
 git remote add origin https://github.com/andriusjonkus/MyPythonMarathon.git sulinkina nuotolini repo lokaliai
-git push -u origin main >
+git push -u origin main > supushina viska i isore (kitaip tariant https://github.com/andriusjonkus/MyPythonMarathon.git sulinkina nuotolini repo lokaliai
+git branch -> isprintina btanchus, * yra working bracnh
+git branch naujas branchas -> sukuria nauja brancha
+hit merge branchas1 branchas2 sumergina branchus
 
-git
