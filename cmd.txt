@@ -1,0 +1,11 @@
+uzeinu i githuba ar i gitlaba susikuria nauja repository
+arba seku instrukcijas arba:
+git init > sukuria nauja repo(kodo sekikli) localiai
+pridedu faila
+git add failopavadinimas > prideda faila i sekimo lista() -am (pasiziureti)
+git commit -m "zinute" i ta faila kuri pridejom/ suadinom
+git branch -M > susetina brancha lokaliai
+git remote add origin https://github.com/andriusjonkus/MyPythonMarathon.git sulinkina nuotolini repo lokaliai
+git push -u origin main >
+
+git
